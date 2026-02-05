@@ -1,1 +1,2 @@
-let outputElement = document.getElementById("outputArea");
+let birthday = document.getElementById("birthdate");
+birthday.innerHTML = "Hey guys!"
